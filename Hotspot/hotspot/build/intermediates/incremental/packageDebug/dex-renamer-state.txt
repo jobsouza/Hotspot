@@ -1,0 +1,7 @@
+#Wed Nov 02 10:01:36 BRST 2016
+base.0=/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2202b711400acb3d620cbd971ceb571ca49a9a29
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d9bde9d04cfb3637d55beb20351bb167ebc39c49/classes.dex
+base.1=/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d9bde9d04cfb3637d55beb20351bb167ebc39c49
+file.0=/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2202b711400acb3d620cbd971ceb571ca49a9a29/classes.dex

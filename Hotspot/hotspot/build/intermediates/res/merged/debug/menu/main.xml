@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jobsouza.hotspot.MainActivity" >
+    <!--  
+    
+    <item android:id="@+id/action_exit"
+        android:orderInCategory="100"
+		android:showAsAction="always"
+		android:icon="@drawable/logout_porta"
+		android:title="@string/sair"/>
+    
+    <item
+        android:id="@+id/action_ajuda"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/ajuda"/>
+    -->
+    
+    <!-- 
+    	 showAsAction => este atributo define como a ação é mostrada. O conteúdo "ifRoom" para este atributo 
+    	 define que a ação somente é mostrada na Action Bar se tem espaço disponível suficiente na tela.
+    	 Outros conteúdos possíveis são: always, never, withText e collapseActionView.
+    -->
+
+</menu>
