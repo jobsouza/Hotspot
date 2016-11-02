@@ -1,0 +1,61 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+   	<!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+   	<style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+         -->
+    </style>
+    
+    
+    <color name="cor_preta">#000000</color>
+    <color name="letra_azul">#0f75bc</color>
+    <color name="fundo_azul">#0f75bc</color>
+    <color name="fundo_azul_claro">#00ffff</color>
+    <color name="letra_cinza">#3a3a3c</color>
+    <color name="fundo_cinza_escuro">#dddddd</color>
+    <color name="fundo_cinza_claro">#e7e8e9</color>
+    
+    
+    <!-- App NOVO -->
+    <color name="cor_branca">#ffffff</color>
+    <color name="cor_1_bloco_50_10">#D37F7F</color>   <!-- Vermelho -->
+    <color name="cor_2_bloco_50_10">#81D8D0</color>   <!-- Verde -->
+    <color name="cor_1_bloco_25_05">#D1C180</color>   <!-- Amarelo -->
+    <color name="cor_2_bloco_25_05">#80AAD6</color>   <!-- Azul -->
+    
+    
+    <!-- Action Bar -->
+    <color name="cor_bckgr_action_bar">#323e48</color> <!-- Cor Background Action Bar -->
+    <color name="cor_titulo_action_bar">#ffffff</color> <!-- Cor Foreground Titulo Action Bar = Nome App após icone App -->
+    
+    <!-- Dialogo de Alerta -->
+    <color name="dialogoAlerta_cor_botao_selecionado">#58616b</color>
+    <color name="dialogoAlerta_cor_botao_normal">#36424a</color>
+    <color name="dialogoAlerta_cor_letras_botao">#ffffff</color>
+    <string name="dialogoAlerta_tamanho_letras_botao">20</string>
+    <color name="dialogoAlerta_cor_linha_entre_titulo_message">#04818A</color>
+    
+    <!-- Dialogo de Progress Bar -->
+    <color name="progress_cor_titulo">#58616b</color>
+    <color name="progress_cor_letras_titulo">#ffffff</color>
+    <string name="progress_tamanho_letras_titulo">20</string>
+    <string name="progress_tamanho_letras_msg">1.3</string>
+    <color name="progress_cor_botao_normal">#323e48</color>
+    <color name="progress_cor_botao_selecionado">#5b6770</color>
+    <color name="progress_cor_letras_botao">#ffffff</color>
+    <string name="progress_tamanho_letras_botao">20</string>
+    <color name="progress_cor_linha_entre_titulo_msg">#33b5e5</color>
+	 <!-- Da forma que está implementado, não é possível alterar cor de fundo e cor das letras da message -->
+
+    <!-- botão OK da configuração -->
+    <color name="cor_botao_normal">#36424a</color> <!-- Cinza escuro -->
+	<color name="cor_botao_pressionado">#58616b</color> <!-- Cinza claro -->
+	
+</resources>

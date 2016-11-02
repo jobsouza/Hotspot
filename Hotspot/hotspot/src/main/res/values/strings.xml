@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hotspot</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Padrão de fonte para os textos -->
+  	<string name="fonte_textos">sans-serif</string>
+
+  	<!--  Alert Dialog -->
+  	<string name="nome_Botao_OK">OK</string>
+  	<string name="nome_Botao_Sim">SIM</string>
+  	<string name="nome_Botao_Nao">NÃO</string>
+	<string name="nome_Botao_Cnx">Conectar</string>
+	<string name="nome_Botao_Dcnx">Desconectar</string>
+  	<string name="msg_sair">Tem certeza que deseja sair?</string>
+  	
+  	<!-- Action Bar -->
+  	<string name="ajuda">Ajuda</string>
+  	<string name="sair">Sair</string>
+  	
+  	<!-- Tela de Configuração -->
+  	<string name="cfg_campo_titulo">Controle de acesso à Internet</string>
+  	<string name="cfg_campo_id">ID</string>
+  	
+  	<!-- Mensagens de erro da tela de Configuração -->
+  	<string name="cfg_erro_rede">Sem acesso à rede via Wi-Fi.&lt;br /&gt;Favor ativar Wi-Fi.&lt;br /&gt; &lt;br /&gt;Você já ativou o Wi-Fi?</string>
+	<!-- &lt;br /&gt; = ENTER (Pular linha) -->
+  	
+  	<!-- Progress Bar da Configuração (enquanto enviando post com cadastro para RD Station) -->
+  	<string name="progr_bar_titulo">Aguarde &#8230;</string>  <!-- &#8230; = ... (três pontos) -->
+  	<string name="progr_bar_msg">Consultando Servidor.</string>
+  	<string name="progr_bar_botao_neg">Cancelar</string>
+  	
+  	
+</resources>
