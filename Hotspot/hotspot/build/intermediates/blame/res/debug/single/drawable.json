@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/meu_progress_dialog.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/src/main/res/drawable/meu_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/fornecedor1.jpeg",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/src/main/res/drawable/fornecedor1.jpeg"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/botao_selector.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/src/main/res/drawable/botao_selector.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/spinner.jpg",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/src/main/res/drawable/spinner.jpg"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/fornecedor1_grun.png",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/src/main/res/drawable/fornecedor1_grun.png"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/cliente_grun.png",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/src/main/res/drawable/cliente_grun.png"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/cliente.jpg",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/src/main/res/drawable/cliente.jpg"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/res/merged/debug/drawable/fornecedor2.png",
+        "source": "/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/src/main/res/drawable/fornecedor2.png"
+    }
+]

@@ -1,0 +1,104 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_layout_main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:fillViewport="true"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:foregroundGravity="center">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="0.50">
+
+        <include
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/action_bar" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iV_cliente"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cliente"
+        android:layout_gravity="center_horizontal" />
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tV_dados_wifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="5dp"
+            android:text=""
+            android:textColor="@color/cor_preta" />
+
+        <TableRow
+            android:id="@+id/tableRow_cfg_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+
+            <TextView
+                android:id="@+id/tV_cfg_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:text="@string/cfg_campo_id"
+                android:textColor="@color/cor_preta" />
+
+            <EditText
+                android:id="@+id/et_cfg_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:maxLength="12"
+                android:focusable="false"
+                android:inputType="number" >
+                <requestFocus />
+            </EditText>
+
+        </TableRow>
+
+        <TextView
+            android:id="@+id/tV_retorno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textStyle="bold"
+            android:textColor="@color/letra_azul" />
+    </TableLayout>
+
+    <Button
+        android:id="@+id/bt_cfg_ok"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/botao_selector"
+        android:text="@string/nome_Botao_Cnx"
+        android:textColor="@color/cor_branca" />
+
+    <ImageView
+        android:id="@+id/iV_fornecedor1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/fornecedor1"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

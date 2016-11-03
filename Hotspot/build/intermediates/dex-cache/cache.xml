@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_bf97d2417b0baea1a6732ff669e7826d3fb1f590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jobsouza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_d78b6d2cace42ccbd3f35ab5f0659ed9874539aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_4bd57cc8f4ea2f0c728ee549c8e74f4b591b5ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_1ce4015d10ddfb875c6154c5fbc73585f5056713/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_a6850cacad9c5665502c1fb3afaa61bc1c5c1f2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82b8cd0b90e2a6ea15fbcd268b4645ecfc05d5be">
+        <dex dex="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2202b711400acb3d620cbd971ceb571ca49a9a29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_673e1ed06f42bd331a1b6b6a3df886ae07f56a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bcfb5e4f85f07b8729d566625479accbf77b52f0">
+        <dex dex="/Users/jobsouza/Documents/AndroidStudioProjects/Hotspot/hotspot/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d9bde9d04cfb3637d55beb20351bb167ebc39c49/classes.dex" />
+    </item>
+
+</items>

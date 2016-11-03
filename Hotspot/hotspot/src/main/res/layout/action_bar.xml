@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#222222"
+    android:orientation="vertical"
+    android:gravity="center" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+    	android:gravity="center" >
+
+        <TableRow
+            android:id="@+id/tableRow_cfg_nome"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+<!-- android:layout_width="wrap_content"
+     android:layout_height="40dp"
+-->
+            <ImageView
+                android:id="@+id/iV_abar_icone_app"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:layout_gravity="left"
+                android:paddingRight="10dp"
+                android:contentDescription="@string/abc_action_bar_home_description"
+                android:src="@drawable/fornecedor2" />
+
+            <TextView
+                android:id="@+id/tV_abar_nome_app"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center"
+                android:layout_weight="0.1"
+                android:text="@string/app_name"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/white" />
+
+            <ImageButton
+                android:id="@+id/ib_abar_logout"
+                android:contentDescription="@string/abc_action_bar_home_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="#222222"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:src="@drawable/logout_porta" />
+
+            <ImageButton
+                android:id="@+id/ib_abar_ajuda"
+                android:contentDescription="@string/abc_action_bar_home_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="#222222"
+                android:paddingRight="10dp"
+                android:src="@drawable/icone_ajuda" />
+
+        </TableRow>
+    </TableLayout>
+    
+</LinearLayout>
